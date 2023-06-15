@@ -7,7 +7,7 @@
 - 👯 Principais Softs Skills: trabalho em equipe, adaptabilidade, flexibilidade e autoaprendizagem
 
 ## Ferramentas e Tecnologias
-
+<div>
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
 
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
@@ -25,6 +25,7 @@
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" />
           
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" />
+</div>            
 
 
 <div>
