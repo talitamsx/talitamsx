@@ -3,7 +3,7 @@
 
 - 🔭 Sou formada em Análise e Desenvolvimento de Sistemas
 - 🌱 Aprimorando meu conhecimento em desenvolvimento Web
-- 😄 Atualmente estou particpando do bootcamp da Laboratória 
+- 😄 Atualmente estou buscando uma oportunidade de dev jr
 - 👯 Principais Softs Skills: trabalho em equipe, adaptabilidade, flexibilidade e autoaprendizagem
 
 ## Ferramentas e Tecnologias
